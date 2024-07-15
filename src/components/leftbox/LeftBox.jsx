@@ -5,7 +5,7 @@ import SocialLinks from './SocialLinks'
 
 const LeftBox = () => {
   return (
-    <div>
+    <div className='md:fixed'>
       <Intro />
       <NavLinks />
       <SocialLinks />

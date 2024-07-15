@@ -1,14 +1,15 @@
 import React from 'react'
-
+import About from './About'
+import Experience from './experience/Experience'
+import TechContainer from './techskills/TechContainer'
 const RightBox = () => {
   return (
     <div>
-      <div id="about">about</div>
-      <div id="experience">experience</div>
+      <About />
+      <Experience />
       <div id="projects">projects</div>
-      <div id="resume">resume</div>
       <div id="softskills">soft skills</div>
-      <div id="technicalskills">technical skills</div>
+      <TechContainer />
     </div>
   )
 }

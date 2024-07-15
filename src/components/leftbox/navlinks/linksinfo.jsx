@@ -12,7 +12,7 @@ const links = [
     title: 'PROJECTS'
   },
   {
-    route: '#resume',
+    route: 'https://docs.google.com/document/d/e/2PACX-1vTyXe_t7A9bvGAzbCQDEMk1_kB5r7CrcvlPjLUJxtNkLjdK9hC02l-8s5jK13oGMs8N1C8VMb9l7exl/pub',
     title: 'RESUME'
   },
   {
