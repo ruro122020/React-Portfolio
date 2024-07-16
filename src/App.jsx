@@ -7,11 +7,11 @@ function App() {
   return (
     <>
       <div className='container bg-black text-blue-600'>
-        <div className='md:flex'>
-          <div className='w-1/2'>
+        <div className='m:flex'>
+          <div className='m:w-1/2'>
             <LeftBox />
           </div>
-          <div className='w-1/2'>
+          <div className='m:w-1/2'>
             <RightBox />
           </div>
         </div>
