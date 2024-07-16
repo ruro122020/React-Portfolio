@@ -19,12 +19,12 @@ const About = () => {
           pushing my limits and expanding my boundaries.
         </p>
         <p className='p-3 text-2xl' style={{ fontFamily: "Caveat" }}>
-          Emerging from the bootcamp, I felt confident and eager to collaborate with other developers.
+          Emerging from the bootcamp, I feel confident and eager to collaborate with other developers.
           I have a burning desire to join a team that shares my passion for building software solutions that can make a
           difference in the world, in society, and for everyday people like you and me.
           I'm now on the lookout for a team of developers where I can continue to grow my skills and embrace new
           challenges. I value a healthy work-life balance and am ready to contribute to a great team.
-          If you are part of a fantastic team of developers seeking a candidate who has honed their technical skills, is
+          If you are part of a fantastic team of developers seeking a software developer who has honed their technical skills, is
           eager to learn and ask questions, doesn't shy away from a challenge, and loves developing software,
           let's connect!
         </p>
