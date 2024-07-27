@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Projects = () => {
+const ProjectCard = ({ card }) => {
   return (
     <div>
-      projects
+
     </div>
   )
 }
 
-export default Projects
+export default ProjectCard
