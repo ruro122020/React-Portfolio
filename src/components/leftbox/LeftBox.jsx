@@ -7,7 +7,6 @@ const LeftBox = () => {
   return (
     <div className='md:fixed'>
       <Intro />
-      <NavLinks />
       <SocialLinks />
     </div>
   )

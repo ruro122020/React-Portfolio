@@ -4,7 +4,7 @@ const About = () => {
   return (
 
     <div id="about">
-      <div className='sm:mt-0 md:mt-24'>
+      <div className=''>
         {/* <p className='p-3 text-2xl' style={{ fontFamily: "Caveat" }}>
           In 2006, I stumbled upon the world of code-based software technologies and it became a hobby.
           Normally, I'm an outdoor enthusiast, but this new fascination quickly grew on me.
