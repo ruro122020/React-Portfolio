@@ -7,7 +7,7 @@ const NavLinks = () => {
     <div className='md:flex md:p-5 md:pr-10 justify-between'>
       {links.map(({ route, title }) => {
         return (
-          <div>
+          <div key={title}>
             <Link key={title} route={route} title={title} />
           </div>
         )
